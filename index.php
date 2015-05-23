@@ -93,10 +93,11 @@ p{
       <td>
       </td>
       	<p style="text-align:center; font-size:18px">
-          I am a Geek lover of philately. In here you can take a look at my personal collection, if you have a comment that you want to share or and offer please contact me by email.       </p><h1>Feel free to make and offer and contact me :)</h1>
-          <h2><br/>Transfer conditions</h2> <p style="text-align:center">Payment by Personal In the Netherlands, I live in Rotterdam also Could be  or Bankers Transfer In the Netherlands. Shipping fee must be paid by buyer. Stamps are not sold individually, you may buy the entire book if interested. </p>
+          I am a Geek lover of philately. In here you can take a look at my personal collection, I am interested in sell it. If you have a comment that you want to share or and offer please contact me by email.       </p><h1>Feel free to make and offer and contact me :)</h1>
+          <h2><br/>Transfer conditions</h2> <p style="text-align:center">Payment by Personal In the Netherlands, </p>
      
-<h2><br/>Return Policy</h2> <p style="text-align:center">No return.</p>
+
+
 
 <h2><br/>Books</h2>
 
@@ -107,33 +108,30 @@ p{
     <td><table width="100%" border="0" cellpadding="10" cellspacing="0" class="blanco" align="center">
       <tr>
       <td class="book">      
-      <h5><strong>Book 1</strong></h5>
+      <!--  SWITZERLAND  		-->
+	  <h5><strong>Book Switzerland</strong></h5>
       <p style="vertical-align: central">
-<strong>Country:</strong> Switzerland<br/>
-<strong><strong>Pages:</strong></strong> 9<br/>
-<strong>Number of Stamps aprox:</strong> 555 <br/>
-<strong>Description: </strong><br/>
-Great collection of stamps!!!
-More than 500 stamps of the  country of Switzerland. Only one chance. If you are not a professional collector this is the best opportunity to start and if you are already, there are a variety of stamps that will allow you to complete your collection! Selling entire collection, not stamps per unit.
-      <a href="Switzerland.html">
-      <h4>See more...</h4></a></td>
+
+	  
+	  <strong>Country:</strong> Switzerland<br/>
+
+      <a href="Switzerland.html"><h4>See more...</h4></a></td>
       <td class="book" align="center">
-      <img src="Images/provisional1.jpg" alt="Switzerland" align="left" />
+      <img align="right" src="Images/Album_SU_BookX.jpg" alt="Switzerland" align="left" />
       </td>
       </tr>
       <tr>
       <td>
-      <h5><strong>Book 2</strong></h5><p>
-<strong>Country:</strong> Netherlands<br/>
-<strong><strong>Pages:</strong></strong> 12<br/>
-<strong>Number of Stamps aprox:</strong> 749<br/>
-<strong>Description: </strong><br/>
-Great collection of stamps!!! More than 700 stamps of the country of Netherlands. Only one chance. If you are not a professional collector this is the best opportunity to start and if you are already, there are a variety of stamps that will allow you to complete your collection! Selling entire collection, not stamps per unit. 
+    
+<h5><strong>Book Netherlands</strong> Netherlands<br/> </h5>
+<h5><strong>Country:</strong> Netherlands<br/>  </h5>
 
-<a href="Netherlands.html">
-<h4>See more...</h4></a></td>
+
+<!-- NETHERLANDS -->
+<a href="Netherlands.html"><h4>See more...</h4></a>
+</td>
       <td align="center">
-      <img src="Images/provisional2.jpg" alt="Netherlands" align="left" />
+      <img align="right" src="Images/Album_NE_BookX.jpg" alt="Netherlands" align="left" />
       </td>
       </tr>
     </table></td>
@@ -142,43 +140,52 @@ Great collection of stamps!!! More than 700 stamps of the country of Netherlands
   <td>
       <table width="100%" border="0" cellpadding="10" cellspacing="0" class="blanco" align="center">
       <tr>
-      <td>
-      <h5><strong>Book 3 (T1)</strong></h5>
+
+	<td>
+	  
+<!-- ALBUM SEVERAL T1-->  
+	   <h5><strong>Book Several(T1)</strong></h5>
+
       <p style="text-align:left">
-<strong>Country:</strong> Several
-(PARAGUAY - MEXICO - ECUADOR - PANAMA - CHILE - ARGENTINA 
-- BRAZIL - EGYPT - CUBA - BOLIVIA - URUGUAY – COLOMBIA)
+
+	  <strong>Country:</strong> Several
+(PARAGUAY - MEXICO - ECUADOR - PANAMA - CHILE - ARGENTINA - BRAZIL - EGYPT - CUBA - BOLIVIA - URUGUAY – COLOMBIA)
 <br/>
-<strong>Pages:</strong> 12<br/>
-<strong>Number of Stamps aprox:</strong> 432</p>
+<a href="Several_T1.html" > <h4>See more...</h4></a>
+
       </td>
+	  
       <td align="center">
-      <img src="Images/provisional2.jpg" alt="Several" />
+      <img src="Images/Album_Several_BookT1.jpg" alt="Several" />
       </td></tr>
       <tr>
       <td>
-      <h5><strong>Book 4 (T2)</strong></h5>
+<!-- ALBUM T2-->
+      <h5><strong>Book Several(T2)</strong></h5>
       <p style="text-align:left">
 <strong>Country:</strong> Several
 (SAN MARINO REPUBLIC - AUSTRALIA - NEW ZEALAND - NETHERLANDS - CHINA - HONDURAS - HAITI - COSTA RICA - IRAQ - TURKEY - GUATEMALA - PHILIPPINES - ISRAEL - PORTUGAL)<br/>
-<strong>Pages:</strong> 12<br/>
-<strong>Number of Stamps aprox:</strong> 432</p>
+<a href="Several_T2.html" > <h4>See more...</h4></a>
+
       </td>
+
       <td align="center">
-      <img src="Images/provisional2.jpg" alt="Several2" />
+      <img src="Images/Album_Several_BookT2.jpg" alt="Several2" />
       </td>
       </tr>
       <tr>
       <td>
-      <h5><strong>Book 5 (T3)</strong></h5>
+	  
+	  <!-- ALBUM T3-->
+      <h5><strong>Book Several(T3)</strong></h5>
       <p style="text-align:left">
 <strong>Country:</strong> Several
 (YUGOSLAVIA - RUSSIA - MADAGASCAR - MALASIA - FINLAND - HELVETIA - GERMANY - POLISHCA - BELGIUM – SPAIN)<br/>
-<strong>Pages:</strong> 12<br/>
-<strong>Number of Stamps aprox:</strong> 432</p>
-      </td>
+      <a href="Several_T3.html" > <h4>See more...</h4></a>
+	  </td>
+	  
       <td align="center">
-      <img src="Images/provisional2.jpg" alt="Several2" />
+      <img src="Images/Album_Several_BookT3.jpg" alt="Several2" />
       </td>
       </tr>
       </table>
@@ -187,27 +194,29 @@ Great collection of stamps!!! More than 700 stamps of the country of Netherlands
     <td><table width="100%" border="0" cellpadding="10" cellspacing="0" class="blanco" align="center">
       <tr>
       <td>
-      <h5><strong>Book 6 (T4)</strong><br/></h5>
+	  
+ 
+      <h5><strong>Book Italy (T4)</strong><br/></h5>
       <p>
         <strong>Country:</strong> Italy<br/>
-<strong>Pages:</strong> 12<br/>
-<strong>Number of Stamps aprox:</strong> 432</p>
-      </td>
+		<a href="Italy_T4.html" > <h4>See more...</h4></a>     
+	 </td>
       <td align="center">
-      <img src="Images/provisional1.jpg" alt="Italy" align="left" />
-      </td>
+      <img align="right" src="Images/Album_Italy_BookT4.jpg" alt="Italy" align="left" />
+      
+</td>
       </tr>
       <tr>
       <td>
-      <h5><strong>Book 7 (T5)</strong></h5>
+   <!--   <h5><strong>Book Several (T5)</strong></h5>
       <p>
 <strong>Country:</strong> Several<br/>
-<strong>Pages:</strong> 30<br/>
-<strong>Number of Stamps aprox:</strong> 1080</p>
-      </td>
+      <a href="Several_T5.html" > <h4>See more...</h4></a> 
+	  </td>
       <td align="center">
-      <img src="Images/provisional2.jpg" alt="Several3" align="left" />
+      <img align="right" src="Images/provisional2.jpg" alt="Several3" align="left" />
       </td>
+	  -->
       </tr>
     </table></td>
   </tr>
