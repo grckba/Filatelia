@@ -9,7 +9,7 @@
 /* This program is free software. You can redistribute it and/or modify */
 /************************************************************************/
 ## --  START OF CONFIG SECTION  --  ##
-$counterstyle = "images";   # Enter images or text
+$counterstyle = "text";   # Enter images or text
 $imagetype = "10";           # 1 to 10 = The type of image to display (SEE README FILE)
 ## --  END OF CONFIG SECTION  --  ##
 
@@ -24,7 +24,12 @@ $fp = fopen($hitslog, "w");
 fwrite($fp, $hits);
 
 ## Text counter, print the number of hits
-if ($counterstyle == "text") { print $hits; }
+if ($counterstyle == "text") { 
+	$str1="There have been ";
+	$str2=" visitors to this site.";
+	print $str1 . $hits . $str2;
+	//print $hits; 
+}
 
 ## If Image Counter, get the required type and print them out.
 if ($counterstyle == "images") {
